@@ -27,7 +27,7 @@
 
 ## Github
 
-- [본링크](https://www.evernote.com/l/AQUE3CvmhDtAtpjtCRLe7ikP1i08vrVk4Y8)의 **4. 처음으로 깃/깃허브 설정하기** 부터 순서대로 따라해봅니다.
+- [본링크](https://nolboo.kim/blog/2013/10/06/github-for-beginner/)의 **4. 처음으로 깃/깃허브 설정하기** 부터 순서대로 따라해봅니다.
 
 
 ## Docker
