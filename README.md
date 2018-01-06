@@ -27,6 +27,39 @@
 
 ## Github
 
+- **Setting**
+  - 먼저, [GitHub.com](https://github.com/)에 가입한다. 다른 소셜 네트워크에 가입하는 것처럼 간단하다. 로컬 컴퓨터에서 작업하려면 깃을 설치해야 한다. 
+
+  - [필요에 따라](http://git-scm.com/downloads) 윈도우, 맥, 리눅스 용 깃을 설치하라.
+
+  - 이제 커맨드 라인으로 넘어갈 시점이다. 윈도우에선 방금 설치한 Git Bash 앱으로, OS X에선 터미널로 시작한다. 
+
+  - 깃에 자신을 소개할 차례이다. 다음 코드를 타이핑한다.
+
+  - ```
+    git config --global user.name "Your Name Here"
+    ```
+
+  - 물론, “Your Name Here”의 인용부호 안에 자신의 이름을 넣어야 한다.
+
+  - 다음엔, 당신의 이메일을 말해준다. 조금 전에 GitHub.com을 가입할 때 사용한 이메일이어야 한다. 다음과 같이 한다.[(참조자료)](https://www.dropbox.com/s/4khsbqjhgtxeprz/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-01-06%2012.21.44.png?dl=0)
+
+  - ```
+    git config --global user.email "your_email@youremail.com"
+    ```
+
+    ​
+
+
+- **온라인 저장소 만들기**
+  - 이제 프로젝트가 거주할 장소를 만들 시점이다. 
+  - 깃과 깃허브는 당신의 프로젝트와 그 화일들, 깃이 저장한 화일들의 모든 버전에 접근할 수 있는 디지털 디렉토리나 저장공간을 저장소(repository 줄여서 repo)라고 한다.
+  - GitHub.com으로 돌아가서 사용자명 다음에 있는 작은 책 아이콘을 클릭한다. 혹은, 모든 아이콘이 다 똑같아 보인다면 [new repository page](https://github.com/new)로 간다. 
+  - [저장소에 짧고 기억할만한 이름을 준다. 재미삼아 public으로 해본다.](https://www.dropbox.com/s/viwjuacexd9ibgp/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-01-06%2012.59.15.png?dl=0)
+    - 위의 스크린샷에서, “Initialize this repository with a README.” 앞의 체크박스는 신경쓰지 않는다. Readme 화일은 보통 프로젝트에 관해 설명하는 텍스트 화일이다. 여기선 연습삼아 로컬에서 자신의 Readme 화일을 만들 것이다
+    - 위의 스크린샷에서 녹색의 “Create Repository” 버튼을 클릭한다. 이제 프로젝트가 거주할 온라인 공간을 가진 것이다.
+
+
 ### Install
 
 ### Run
